@@ -10,8 +10,8 @@
 
 - `dip build`
 - `dip bundle install`
-- `dip rails new . -a propshaft --skip-git`
 
 Then you can whatever you like on Rails 7.0.0.rc1 and Ruby 3.1.0-preview1 with YJIT activated, such as:
 
+- `dip rails new . -a propshaft --skip-git` or - `dip rails new . --css bootstrap --skip-git`
 - `dip rails s` to start Rails
